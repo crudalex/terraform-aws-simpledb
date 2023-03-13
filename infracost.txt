@@ -1,0 +1,10 @@
+Project: .
+
+ Name  Monthly Qty  Unit  Monthly Cost 
+                                       
+ OVERALL TOTAL                   $0.00 
+──────────────────────────────────
+1 cloud resource was detected:
+∙ 0 were estimated
+∙ 1 is not supported yet, see https://infracost.io/requested-resources:
+  ∙ 1 x aws_simpledb_domain
